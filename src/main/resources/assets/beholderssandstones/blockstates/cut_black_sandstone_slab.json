@@ -1,0 +1,7 @@
+{
+    "variants": {
+        "type=bottom": { "model": "beholderssandstones:block/cut_black_sandstone_slab" },
+        "type=top": { "model": "beholderssandstones:block/cut_black_sandstone_slab_top" },
+        "type=double": { "model": "beholderssandstones:block/cut_black_sandstone" }
+    }
+}

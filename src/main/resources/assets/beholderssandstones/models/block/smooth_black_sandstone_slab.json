@@ -1,0 +1,8 @@
+{
+    "parent": "block/slab",
+    "textures": {
+        "bottom": "beholderssandstones:block/black_sandstone_top",
+        "top": "beholderssandstones:block/black_sandstone_top",
+        "side": "beholderssandstones:block/black_sandstone_top"
+    }
+}

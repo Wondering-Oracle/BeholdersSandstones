@@ -1,0 +1,10 @@
+{
+    "variants": {
+        "": [
+            { "model": "beholderssandstones:block/black_sand" },
+            { "model": "beholderssandstones:block/black_sand", "y": 90 },
+            { "model": "beholderssandstones:block/black_sand", "y": 180 },
+            { "model": "beholderssandstones:block/black_sand", "y": 270 }
+        ]
+    }
+}

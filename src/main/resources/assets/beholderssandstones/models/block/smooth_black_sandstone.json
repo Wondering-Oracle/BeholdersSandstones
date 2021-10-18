@@ -1,0 +1,6 @@
+{
+    "parent": "block/cube_all",
+    "textures": {
+        "all": "beholderssandstones:block/black_sandstone_top"
+    }
+}
