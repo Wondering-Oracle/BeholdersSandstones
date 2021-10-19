@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "###",
+    "###"
+  ],
+  "key": {
+    "#": {
+      "item": "beholderssandstones:cut_black_sandstone"
+    }
+  },
+  "result": {
+    "item": "beholderssandstones:cut_black_sandstone_wall",
+    "count": 6
+  }
+}

@@ -1,0 +1,8 @@
+{
+  "type": "minecraft:stonecutting",
+  "ingredient": {
+    "item": "beholderssandstones:cut_black_sandstone"
+  },
+  "result": "beholderssandstones:cut_black_sandstone_wall",
+  "count": 1
+}
