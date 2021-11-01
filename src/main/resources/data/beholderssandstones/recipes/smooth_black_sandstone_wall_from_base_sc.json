@@ -1,8 +1,0 @@
-{
-  "type": "minecraft:stonecutting",
-  "ingredient": {
-    "item": "beholderssandstones:black_sandstone"
-  },
-  "result": "beholderssandstones:smooth_black_sandstone_wall",
-  "count": 1
-}

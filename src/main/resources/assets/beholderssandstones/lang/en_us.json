@@ -1,4 +1,10 @@
 {
+	"block.beholderssandstones.cut_sandstone_wall": "Cut Sandstone Wall",
+	"block.beholderssandstones.smooth_sandstone_wall": "Smooth Sandstone Wall",
+
+	"block.beholderssandstones.cut_red_sandstone_wall": "Cut Red Sandstone Wall",
+	"block.beholderssandstones.smooth_red_sandstone_wall": "Smooth Red Sandstone Wall",
+
 	"block.beholderssandstones.black_sand": "Black Sand",
 	"block.beholderssandstones.black_sandstone": "Black Sandstone",
 	"block.beholderssandstones.black_sandstone_slab": "Black Sandstone Slab",
